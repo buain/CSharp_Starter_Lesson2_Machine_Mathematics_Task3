@@ -1,0 +1,7 @@
+D:\NET\Projects\Lesson2_3\Task3\Task3\bin\Debug\Task3.exe.config
+D:\NET\Projects\Lesson2_3\Task3\Task3\bin\Debug\Task3.exe
+D:\NET\Projects\Lesson2_3\Task3\Task3\bin\Debug\Task3.pdb
+D:\NET\Projects\Lesson2_3\Task3\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+D:\NET\Projects\Lesson2_3\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\NET\Projects\Lesson2_3\Task3\Task3\obj\Debug\Task3.exe
+D:\NET\Projects\Lesson2_3\Task3\Task3\obj\Debug\Task3.pdb
